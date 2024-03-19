@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Wyziii
-- 👀 I’m interested in evrything about internet and computers.
+- Nationality: French.
+- 👀 I’m interested in everything about internet and computers.
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me:
 - email adress: alan.cislaghi@gmail.com
